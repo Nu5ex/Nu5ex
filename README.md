@@ -38,6 +38,13 @@
   
 <br>
 
+ - **Database**:
+
+   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+   
+<br>
+
 - **Softwares and Tools**:
   
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -111,10 +118,4 @@
 <div align='center'>
 </div>
 <br>
-<br>
-<br>
-<br>
 
----
-
-<br>
