@@ -11,7 +11,7 @@
 - 🧠 Continuously learning tools like **Wireshark, Burp Suite, Nmap, Metasploit**, and more
 - 👨‍💻 Background in **front-end and back-end development**, which supports my security understanding
 - 🚀 Open to junior roles, internships, or freelance opportunities in **Cybersecurity**
-- 📄 Here is [my resume](https://www.canva.com/design/DAFcuIUs81k/UD6Q1aVAmv1we39X0dxkgQ/edit?utm_content=DAFcuIUs81k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Here is [my resume](https://www.canva.com/design/DAGo5hBLjFI/8UQuIM9QlBGaZ6XQf-iH0g/edit?utm_content=DAGo5hBLjFI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br><br>
 
